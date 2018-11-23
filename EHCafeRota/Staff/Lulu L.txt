@@ -1,0 +1,7 @@
+Name: Lulu L
+Supervisor: false
+Cook: false
+Tills: false
+IceCream: true
+Stock: true
+Stores: false

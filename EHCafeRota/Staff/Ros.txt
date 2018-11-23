@@ -1,0 +1,7 @@
+Name: Ros
+Supervisor: false
+Cook: true
+Tills: true
+IceCream: true
+Stock: true
+Stores: false

@@ -1,0 +1,7 @@
+Name: Amber
+Supervisor: true
+Cook: false
+Tills: false
+IceCream: false
+Stock: false
+Stores: false

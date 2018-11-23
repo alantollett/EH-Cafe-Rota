@@ -1,0 +1,7 @@
+Name: Mark
+Supervisor: false
+Cook: false
+Tills: true
+IceCream: true
+Stock: true
+Stores: false
